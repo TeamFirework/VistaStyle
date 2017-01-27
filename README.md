@@ -18,6 +18,7 @@ This page itself could be an example of a Vista design page. Web developers: use
 
 ### Development Notes
 A few of the listed features are being worked on or are in the future. These include the following:
+
 - Intermission screens
 - Error tracking system in console
 - Vista Notify
