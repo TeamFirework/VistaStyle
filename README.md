@@ -21,4 +21,5 @@ A few of the listed features are being worked on or are in the future. These inc
 - Intermission screens
 - Error tracking system in console
 - Vista Notify
+
 Vista Notify is a seperate project that will embed its script into any Vista pages.
